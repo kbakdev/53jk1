@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help with my Open Source projects.
 - 💬 Ask me about anything.
-- 📫 How to reach me? Especially on Discord ``53jk1#9024``
+- 📫 How to reach me? Especially on Discord ``53jk1#1337``
 - ⚡ Fun fact: I like to create new things and automate activities.
 
 ### What projects have I been involved in?
