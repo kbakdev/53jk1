@@ -2,7 +2,7 @@
 ## You can support me through
 - Follow 😊
 - [Star repo 🌟](https://github.com/53jk1?tab=repositories)
-- [Donation 💰](https://liberapay.com/53jk1/)
+- <noscript><a href="https://liberapay.com/53jk1/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ### Hi there 👋
 - 🔭 I’m currently working on LBC support for BTCPay Server.
