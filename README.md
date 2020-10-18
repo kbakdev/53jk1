@@ -5,6 +5,8 @@
 
 <noscript><a href="https://liberapay.com/53jk1/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
+<img src="https://img.shields.io/liberapay/receives/53jk1.svg?logo=liberapay">
+
 ### Hi there 👋
 - 🔭 I’m currently working on LBC support for BTCPay Server.
 - 🌱 I’m currently learning everything I can.
