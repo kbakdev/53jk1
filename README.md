@@ -13,6 +13,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me? Especially on Discord ``53jk1#1337``
 - ⚡ Fun fact: I like to create new things and automate activities.
+- ♟️ I really like playing chess.
 
 ### What projects have I been involved in?
 - [Watch on LBRY](https://chrome.google.com/webstore/detail/watch-on-lbry/jjmbbhopnjdjnpceiecihldbhibchgek)
