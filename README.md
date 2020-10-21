@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help with my Open Source projects.
 - 💬 Ask me about anything.
-- 📫 How to reach me? Especially on Discord ``53jk1#1337``
+- 📫 How to reach me? Especially on Discord ``53jk1#0326``
 - ⚡ Fun fact: I like to create new things and automate activities.
 - ♟️ I really like playing chess.
 
