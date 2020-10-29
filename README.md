@@ -6,14 +6,9 @@
 <noscript><a href="https://liberapay.com/53jk1/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ### Hi there 👋
-- 🔭 I’m currently working on LBC support for BTCPay Server.
-- 🌱 I’m currently learning everything I can.
-- 👯 I’m looking to collaborate on new projects.
-- 🤔 I’m looking for help with my Open Source projects.
-- 💬 Ask me about anything.
 - 📫 How to reach me? Especially on Discord ``53jk1#0326``
-- ⚡ Fun fact: I like to create new things and automate activities.
-- ♟️ I really like playing chess.
+- ⚡ I like to create new things and automate activities.
+- ♟️ I really like playing chess, and Blizzard games.
 
 ### What projects have I been involved in?
 - [Watch on LBRY](https://chrome.google.com/webstore/detail/watch-on-lbry/jjmbbhopnjdjnpceiecihldbhibchgek)
