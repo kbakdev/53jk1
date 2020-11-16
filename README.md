@@ -13,3 +13,5 @@
 ### What projects have I been involved in?
 - [Watch on LBRY](https://chrome.google.com/webstore/detail/watch-on-lbry/jjmbbhopnjdjnpceiecihldbhibchgek)
 - [League of Legends Bot](https://github.com/Skinz3/League-of-Legends-Bot)
+
+![](https://komarev.com/ghpvc/?username=53jk1)
