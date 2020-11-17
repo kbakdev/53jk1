@@ -15,3 +15,4 @@
 - [League of Legends Bot](https://github.com/Skinz3/League-of-Legends-Bot)
 
 ![](https://komarev.com/ghpvc/?username=53jk1&color=brightgreen)
+*counting from 16.11.2020*
