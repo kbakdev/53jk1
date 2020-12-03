@@ -6,7 +6,7 @@
 <noscript><a href="https://liberapay.com/53jk1/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ### Hi there 👋
-- 📫 Communicate with me via [Telegram](https://t.me/sxjk1) or Discord ``53jk1#1337``
+- 📫 Communicate with me via [Telegram](https://t.me/sxjk1) or Discord ``53jk1#7281``
 - ⚡ I like to create new things and automate activities.
 - ♟️ I really like playing chess, and Blizzard games.
 
