@@ -5,6 +5,8 @@
 
 <noscript><a href="https://liberapay.com/53jk1/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
+BTC address: bc1q2j6cstdk537ppmtwdsjpkvvswnp9j8hcmrl9py
+
 ### Hi there 👋
 - 📫 Communicate with me via [Telegram](https://t.me/sxjk1) or Discord ``53jk1#1337``
 - ⚡ I like to create new things and automate activities.
