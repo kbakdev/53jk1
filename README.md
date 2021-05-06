@@ -10,7 +10,7 @@
 BTC address: bc1q2j6cstdk537ppmtwdsjpkvvswnp9j8hcmrl9py
 
 ### Hi there 👋
-- 📫 Communicate with me via [Telegram](https://t.me/sxjk1) or Discord ``53jk1#1337``
+- 📫 Communicate with me via [Telegram](https://t.me/sxjk1) or Discord ``53jk1#7489``
 - ⚡ I like to create new things and automate activities.
 - ♟️ I really like playing chess, and Blizzard games.
 
