@@ -5,8 +5,6 @@
 
 <noscript><a href="https://liberapay.com/53jk1/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-<a href="https://www.buymeacoffee.com/53jk1"><img alt="Donate via buymeacoffe" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/buy-morning-coffee-3x.gif"></a>
-
 BTC address: bc1q2j6cstdk537ppmtwdsjpkvvswnp9j8hcmrl9py
 
 ### Hi there 👋
