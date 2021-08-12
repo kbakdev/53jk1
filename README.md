@@ -4,7 +4,7 @@
 - [Star repo 🌟](https://github.com/53jk1?tab=repositories)
 
 ### Hi there 👋
-- 📫 Communicate with me via [Telegram](https://t.me/sxjk1) or Discord ``53jk1#1337``
+- 📫 Communicate with me via [Telegram](https://t.me/sxjk1) or Discord ``53jk1#7650``
 - ⚡ I like to create new things and automate activities.
 - ♟️ I really like playing chess, and Blizzard games.
 
